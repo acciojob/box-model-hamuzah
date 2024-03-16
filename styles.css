@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border: 2px solid #333;
     border-radius: 20px;
-	background-color:grey;
+	 
 }
 
 .red, .green, .yellow {
@@ -25,13 +25,13 @@ body {
 }
 
 .red {
-    background-color:  rgb(255, 51, 51);
+    background-color: darkred;
 }
 
 .green {
-    background-color: #33cc33;
+    background-color: darkgreen;
 }
 
 .yellow {
-    background-color: #ffff33;
+    background-color: #8B8000;
 }
